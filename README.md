@@ -1,3 +1,5 @@
+Edited it. 
+
 This repository contains code for Dynamic Contrast Enhanced (DCE) GRASP MRI reconstruction of abdominal data. 
 
 Reconstruction code is available in two versions - written in matlab and python. 
