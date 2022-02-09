@@ -1,0 +1,1 @@
+print(f"Hello world! My name is G.py! I live inside a newfolder")
